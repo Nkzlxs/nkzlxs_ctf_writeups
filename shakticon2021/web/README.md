@@ -131,6 +131,8 @@ then we tried a more powerful payload
 
 and in the output we found the flag!
 
+![final flag](../files/Screenshot%20from%202021-04-05%2012-40-37.png)
+
 ## Flag: shaktictf{p0tn714l_0f_func710n5_4r3_1nf1n173}
 
 ---
